@@ -1,4 +1,4 @@
-source /usr/share/cachyos-fish-config/cachyos-config.fish
+source $HOME/.config/fish/conf.d/cachyos-config.fish
 
 # shared
 set -x SSH_AUTH_SOCK $HOME/.1password/agent.sock
