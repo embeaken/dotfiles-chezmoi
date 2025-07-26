@@ -1,0 +1,7 @@
+{
+    "vim.handleKeys": {
+        "<C-s>": false,
+        "<C-f>": false,
+        "<C-w>": false,
+    },
+}
