@@ -5,7 +5,7 @@ font-size = 14
 background-opacity = 0.99
 unfocused-split-opacity = 0.9
 
-theme = catppuccin-mocha
+theme = Catppuccin Mocha
 
 command = /usr/bin/fish
 
