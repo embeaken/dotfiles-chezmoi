@@ -2,7 +2,7 @@ font-family = Adwaita Mono
 font-style = Regular
 font-size = 14
 
-background-opacity = 0.99
+background-opacity = 0.95
 unfocused-split-opacity = 0.9
 
 theme = Catppuccin Mocha
